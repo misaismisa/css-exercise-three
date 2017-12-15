@@ -15,7 +15,7 @@ body {
   border: 1px;
   margin: 0 auto;
   width: 420px;
-  height: 700px;
+  height: 738px;
 }
 
 nav {
@@ -57,6 +57,7 @@ nav {
 
 .content h3 {
   font-size: 12px;
+  padding-top: 1%;
 }
 
 .location {
